@@ -1,5 +1,5 @@
 
-//program to calculate interest based on rate supplied
+//program to calculate interest
 
 let data = [ {principal: 2500, time: 1.8},
              {principal: 1000, time: 5},
