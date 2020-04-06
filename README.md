@@ -1,1 +1,1 @@
-# Js-task2
+# InterestRate Calculator
